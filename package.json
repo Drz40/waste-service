@@ -1,0 +1,18 @@
+{
+  "name": "waste-service",
+  "version": "1.0.0",
+  "description": "waste management service",
+  "main": ", scripts: { server: nodemon app.js,",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongodb": "^2.2.24",
+    "shortid": "^2.2.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Isaac Akintomide",
+  "license": "ISC"
+}
