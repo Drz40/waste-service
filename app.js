@@ -27,3 +27,4 @@ app.delete('/api/bins/:id',bin.delete);
 app.listen(8000)
 // Put a friendly message on the terminal
 console.log("Server running at http://127.0.0.1:8000/");
+
