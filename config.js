@@ -11,5 +11,4 @@ exports.logStars = function(message) {
 
 exports.port = env.PORT || 8000;
 exports.host = env.HOST || 'localhost';
-exports.mongodbUri = 'mongodb://Drz40
-:<Oyindamola4@ds123930.mlab.com:23930/bins_db';
+exports.mongodbUri = 'mongodb://Drz40:Oyindamola4@ds123930.mlab.com:23930/bins_db';
